@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TpIhm</string>
+    <string name="j_aime_pas">Dislike</string>
+    <string name="j_aime">Like</string>
+    <string name="compl_ment">Complement</string>
+    <string name="annuler">Cancel</string>
+    <string name="ajouter">Validate</string>
+    <string name="saisir_un_nom">Enter Name</string>
+</resources>

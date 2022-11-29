@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TpIhm</string>
+    <string name="j_aime_pas">J\'aime pas</string>
+    <string name="compl_ment">Complément :</string>
+    <string name="j_aime">J\'aime</string>
+    <string name="saisir_un_nom">Saisir un nom</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="annuler">Annuler</string>
+    <string name="valider">valider</string>
+</resources>
